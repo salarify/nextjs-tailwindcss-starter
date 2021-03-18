@@ -1,7 +1,11 @@
 {
-  "name": "employee-webapp",
+  "name": "nextjs-tailwindcss-starter",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Emma Popoola",
+    "email": "olaayo10@gmail.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
